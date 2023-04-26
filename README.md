@@ -8,9 +8,9 @@ The dataset used for this analysis contains information about the clinic's appoi
 
 ## Exploratory Data Analysis
 Before building the models, we first explored the data to gain insights and identify trends. The following observations were made:
-• The revenue generated from the clinic's appointments has been increasing steadily over the years.
-• The number of unique patients has also been increasing, but the rate of increase has slowed down in recent years.
-• There is a clear seasonality in the number of appointments booked, with higher numbers in the summer months and lower numbers in the winter months.
+* The revenue generated from the clinic's appointments has been increasing steadily over the years.
+* The number of unique patients has also been increasing, but the rate of increase has slowed down in recent years.
+* There is a clear seasonality in the number of appointments booked, with higher numbers in the summer months and lower numbers in the winter months.
 
 ## Methodology
 We used three different models to forecast the revenue and number of unique patients for the year 2023:
